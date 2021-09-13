@@ -13,13 +13,6 @@
   -- Code minor mods: Orginized and remixed the code again;
 */
 
-#include <Arduino.h>
-#include <Keypad.h>
-
-#include <Bounce2.h>
-#include <HID-Project.h> // PlatformIO Users: also include 'HID @ ^1.0' in platformIO.ini lib_deps.
-#include <Encoder.h>
-
 // Setting Keypad buttons...
 #include <Arduino.h>
 #include <Keypad.h>
